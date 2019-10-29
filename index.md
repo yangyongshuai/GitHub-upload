@@ -1,7 +1,7 @@
 - 第一步 : 去github 创建一个仓库
 - 第二步 : git init 
-- 第三步 : git config user.name "yangyongshuai"
-- 第四步 : git config user.email "599742231@qq.com"
+- 第三步 : git config user.name "用户名称"
+- 第四步 : git config user.email "用户邮箱地址"
   - git config --list 查看配置信息 (可选)
 - 第五步: git add 文件名 把工作区的指定文件 提交到暂存区
   - git add . 或者这样子输入(.代表工作区所有文件)
